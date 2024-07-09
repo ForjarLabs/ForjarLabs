@@ -30,16 +30,10 @@ We would love to hear from you! Whether you have a project in mind or just want 
 
 - **Email:** [info@youragency.com](mailto:hello@forjarlabs.agency)
 - **Website:** [www.forjarlabs.agency](https://www.forjarlabs.agency)
-- **LinkedIn:** [Your Agency](https://www.linkedin.com/company/your-agency)
+- **LinkedIn:** [Forjar Labs](https://www.linkedin.com/company/forjar-labs)
+- **Dribbble:** [Forjar Labs](https://dribbble.com/ForjarLabs))
 - **Twitter:** [Forjar Labs](https://twitter.com/forjarlabs)
 
 ## 🔗 Join Us
 
 We are always looking for talented individuals to join our team. Check out our [careers page](https://www.forjarlabs.agency/careers) for current openings.
-
-## ⚖️ License
-
-This repository and the work produced by **Forjar Labs** are licensed under the [MIT License](LICENSE).
-
-
-Thank you for visiting our GitHub profile. We look forward to collaborating with you!
