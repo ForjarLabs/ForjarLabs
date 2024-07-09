@@ -19,8 +19,8 @@ At **Forjar Labs**, we offer a range of services to kickstart your online journe
 
 We are a group of enthusiastic professionals ready to turn your ideas into reality:
 
-- **Founder & CEO:** Goodness Omo-okoroh https://github.com/NotDBadGuy
-- **Lead Developer:** Akpomena Ojefia https://github.com/Akpomena
+- **Founder & CEO:**  Goodness Omo-okoroh [Notdbadguy](https://github.com/NotDBadGuy)
+- **Lead Developer:** Akpomena Ojefia [Apkomena](https://github.com/Akpomena)
 - **Designer:** Samuel Gilo
 - **SEO Specialist:** Mercy Omo-okoroh
 
@@ -30,9 +30,9 @@ We would love to hear from you! Whether you have a project in mind or just want 
 
 - **Email:** [info@youragency.com](mailto:hello@forjarlabs.agency)
 - **Website:** [www.forjarlabs.agency](https://www.forjarlabs.agency)
-- **LinkedIn:** [Forjar Labs](https://www.linkedin.com/company/forjar-labs)
-- **Dribbble:** [Forjar Labs](https://dribbble.com/ForjarLabs))
-- **Twitter:** [Forjar Labs](https://twitter.com/forjarlabs)
+- **LinkedIn:** [Forjar-Labs](https://www.linkedin.com/company/forjar-labs)
+- **Dribbble:** [ForjarLabs](https://dribbble.com/ForjarLabs)
+- **Twitter:** [ForjarLabs](https://twitter.com/forjarlabs)
 
 ## 🔗 Join Us
 
