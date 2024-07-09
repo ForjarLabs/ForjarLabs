@@ -1,12 +1,6 @@
-# Welcome to [Your Web Agency Name] 👋
+# Welcome to Forjar Labs 👋
 
-![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/your-github-username?affiliations=OWNER%2CCOLLABORATOR&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)
-
-## 🚀 About Us
-
-Welcome to **Forjar Labs**! We are a dynamic startup committed to crafting stunning websites, Apps and powerful web applications. Our mission is to help businesses and individuals build a strong online presence through innovative and personalized digital solutions.
+We are a dynamic startup committed to crafting stunning websites, Apps and powerful web applications. Our mission is to help businesses and individuals build a strong online presence through innovative and personalized digital solutions.
 
 ![About Us](https://via.placeholder.com/800x400.png?text=Your+Image+Here)
 
@@ -39,20 +33,15 @@ We are a group of enthusiastic professionals ready to turn your ideas into reali
 We would love to hear from you! Whether you have a project in mind or just want to chat, reach out to us:
 
 - **Email:** [info@youragency.com](mailto:hello@forjarlabs.agency)
-- **Website:** [www.youragency.com](https://www.forjarlabs.agency)
-- **LinkedIn:** [Your Agency LinkedIn](https://www.linkedin.com/company/your-agency)
-- **Twitter:** [Your Twitter Handle](https://twitter.com/forjarlabs)
+- **Website:** [www.forjarlabs.agency](https://www.forjarlabs.agency)
+- **LinkedIn:** [Your Agency](https://www.linkedin.com/company/your-agency)
+- **Twitter:** [Forjar Labs](https://twitter.com/forjarlabs)
 
 ![Contact Us](https://via.placeholder.com/800x400.png?text=Your+Image+Here)
 
 ## 🔗 Join Us
 
 We are always looking for talented individuals to join our team. Check out our [careers page](https://www.forjarlabs.agency/careers) for current openings.
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ## ⚖️ License
 
