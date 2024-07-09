@@ -2,8 +2,6 @@
 
 We are a dynamic startup committed to crafting stunning websites, Apps and powerful web applications. Our mission is to help businesses and individuals build a strong online presence through innovative and personalized digital solutions.
 
-![About Us](https://via.placeholder.com/800x400.png?text=Your+Image+Here)
-
 ## 🌟 Our Vision
 
 We aim to deliver top-notch digital solutions that drive success for our clients. Whether you're a small business or an individual, we tailor our services to meet your unique needs.
@@ -26,8 +24,6 @@ We are a group of enthusiastic professionals ready to turn your ideas into reali
 - **Designer:** Samuel Gilo
 - **SEO Specialist:** Mercy Omo-okoroh
 
-![Our Team](https://via.placeholder.com/800x400.png?text=Your+Image+Here)
-
 ## 📬 Get in Touch
 
 We would love to hear from you! Whether you have a project in mind or just want to chat, reach out to us:
@@ -36,8 +32,6 @@ We would love to hear from you! Whether you have a project in mind or just want 
 - **Website:** [www.forjarlabs.agency](https://www.forjarlabs.agency)
 - **LinkedIn:** [Your Agency](https://www.linkedin.com/company/your-agency)
 - **Twitter:** [Forjar Labs](https://twitter.com/forjarlabs)
-
-![Contact Us](https://via.placeholder.com/800x400.png?text=Your+Image+Here)
 
 ## 🔗 Join Us
 
