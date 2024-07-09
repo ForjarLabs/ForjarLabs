@@ -28,7 +28,7 @@ We are a group of enthusiastic professionals ready to turn your ideas into reali
 
 We would love to hear from you! Whether you have a project in mind or just want to chat, reach out to us:
 
-- **Email:** [info@youragency.com](mailto:hello@forjarlabs.agency)
+- **Email:** [hello@forjarlabs.agency](mailto:hello@forjarlabs.agency)
 - **Website:** [www.forjarlabs.agency](https://www.forjarlabs.agency)
 - **LinkedIn:** [Forjar-Labs](https://www.linkedin.com/company/forjar-labs)
 - **Dribbble:** [ForjarLabs](https://dribbble.com/ForjarLabs)
