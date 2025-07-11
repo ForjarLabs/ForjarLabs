@@ -14,11 +14,13 @@ We build like we mean it — from landing pages to MVPs, internal tools to full 
 - **Full-stack Web Apps** – React, Next.js, Firebase, Node.js, MongoDB
 - **SaaS Dashboards & MVPs** – Built for scale, speed, and clarity
 - **Funnels & Landing Pages** – Conversion-first, fast-loading, mobile-ready
+- **Telegram Bots & Mini Apps** – Games, utilities, and chat-first tools for distribution and virality
 
 ### 🕹️ Games
 - **Godot for Desktop & Web** – 2D games, prototypes, gamified platforms
 - **Flutter for Mobile Games** – Fast UI iterations, cross-platform builds
 - **JS/Canvas for Web Experiments** – Custom gameplay, lightweight builds
+- **Telegram Games** – Built for fast play, shareability, and monetization
 
 ### 📱 Sites & Frontends
 - **Marketing Pages & Static Sites** – HTML, CSS, JS, Tailwind
