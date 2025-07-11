@@ -1,39 +1,43 @@
-# Welcome to Forjar Labs 👋
+# 👋 Welcome to Forjar Labs
 
-We are a dynamic startup committed to crafting stunning websites, Apps and powerful web applications. Our mission is to help businesses and individuals build a strong online presence through innovative and personalized digital solutions.
+**A global product studio shipping smarter tools, faster funnels, and high-performance digital systems.**
 
-## 🌟 Our Vision
+We help startups, creators, and digital brands go from cluttered to clear — and from slow to scalable.
 
-We aim to deliver top-notch digital solutions that drive success for our clients. Whether you're a small business or an individual, we tailor our services to meet your unique needs.
+---
 
-## 📋 Services
+## 🚀 What We Build
 
-At **Forjar Labs**, we offer a range of services to kickstart your online journey:
+- 🔧 **Web & App Development** – React, Next.js, Node.js, Firebase, MongoDB
+- 🎨 **UX & UI Design** – Clean interfaces with conversion-first logic
+- 📈 **Funnels & MVPs** – From landing pages to full-stack SaaS, built to sell
+- ⚡ **Fast Turnarounds** – Sites in 10–15 days. MVPs in 3–4 weeks.
 
-- **Web & App Development:** Building custom websites with the latest technologies.
-- **Web & App Design:** Creating beautiful and responsive designs that represent your brand.
-- **SEO Optimization:** Enhancing your site's visibility on search engines.
-- **Maintenance & Support:** Providing ongoing support and updates for your website.
+---
 
-## 👥 Meet the Team
+## 🧠 Who We Are
 
-We are a group of enthusiastic professionals ready to turn your ideas into reality:
+We’re not an agency. We’re your product SWAT team — lean, smart, and fast.
 
-- **Founder & CEO:**  Goodness Omo-okoroh [Notdbadguy](https://github.com/NotDBadGuy)
-- **Lead Developer:** Akpomena Ojefia [Apkomena](https://github.com/Akpomena)
-- **Designer:** Samuel Gilo
-- **SEO Specialist:** Mercy Omo-okoroh
+- **Founder & Head of Product:** [Goodness Omo-Okoroh](https://github.com/NotDBadGuy)  
+  5+ years in UX, growth, and engineering
+- **VP, Engineering:** [Akpomena Ojefia](https://github.com/Akpomena)  
+  Full-stack builder. Clean code. No fluff.
+- **Design:** Samuel Gilo  
+  Interfaces, visuals, and motion craft
+- **SEO & Strategy:** Mercy Omo-Okoroh  
+  Visibility + on-page optimization
 
-## 📬 Get in Touch
+---
 
-We would love to hear from you! Whether you have a project in mind or just want to chat, reach out to us:
+## 💬 Let’s Talk
 
-- **Email:** [hello@forjarlabs.agency](mailto:hello@forjarlabs.agency)
-- **Website:** [www.forjarlabs.agency](https://www.forjarlabs.agency)
-- **LinkedIn:** [Forjar-Labs](https://www.linkedin.com/company/forjar-labs)
-- **Dribbble:** [ForjarLabs](https://dribbble.com/ForjarLabs)
-- **Twitter:** [ForjarLabs](https://twitter.com/forjarlabs)
+- 🌍 [forjarlabs.agency](https://www.forjarlabs.agency)
+- 📩 [hello@forjarlabs.agency](mailto:hello@forjarlabs.agency)
+- 📱 [WhatsApp](https://wa.me/234XXXXXXXXXX)
+- 🧵 [Twitter](https://twitter.com/forjarlabs)
+- 💼 [LinkedIn](https://www.linkedin.com/company/forjar-labs)
 
-## 🔗 Join Us
+---
 
-We are always looking for talented individuals to join our team. Check out our [careers page](https://www.forjarlabs.agency/careers) for current openings.
+> **Forjar Labs** — Tools. Funnels. Systems that scale.
